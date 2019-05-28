@@ -1,0 +1,30 @@
+{
+  "name": "airlinelogoscapper",
+  "version": "1.0.0",
+  "description": "scraps airline logos from google search page",
+  "dependencies": {
+    "base64-to-image": "^1.0.2",
+    "node-horseman": "^3.3.0",
+    "phantomjs": "^2.1.7",
+    "xml2json": "^0.11.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node scrap.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajan471/AirlineLogoScrapper.git"
+  },
+  "keywords": [
+    "airline",
+    "logo",
+    "scrapper"
+  ],
+  "author": "Rajan Kumar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rajan471/AirlineLogoScrapper/issues"
+  },
+  "homepage": "https://github.com/rajan471/AirlineLogoScrapper#readme"
+}
